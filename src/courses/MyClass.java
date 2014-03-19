@@ -7,6 +7,7 @@ public class MyClass {
 		//My comment
 
 		System.out.println(".....");
+		System.out.println("/////");
 
 	}
 		void myMethod(){
