@@ -11,5 +11,8 @@ public class MyClass {
 		System.out.println("Yeah =)");
 
 	}
+	void method1(){
+		int arg = 1;
+	}
 }
 
